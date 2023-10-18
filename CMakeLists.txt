@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 set(PATCH_VERSION "1" CACHE INTERNAL "Patch version")
 set(PROJECT_VERSION 0.0.${PATCH_VERSION})
 
-project( Homework_1 VERSION ${PROJECT_VERSION})
+project( helloworld VERSION ${PROJECT_VERSION})
 
 enable_testing()
 
